@@ -1,4 +1,6 @@
-% APC PROJECT GROUP 5
+% Applied physical chemistry project
+% Lorenzo Paggetta
+% A.Y. 2022/23
 
 clear all
 close all 
