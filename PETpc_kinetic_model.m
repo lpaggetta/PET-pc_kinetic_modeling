@@ -357,7 +357,7 @@ plot(time_f9a_180C_exp,conv9a_180C_exp,'o','Color',cc(3,:),'LineWidth',1.5,'Mark
 plot(time_f9a_185C_exp,conv9a_185C_exp,'o','Color',cc(4,:),'LineWidth',1.5,'MarkerSize',10,'MarkerEdgeColor','k')
 plot(time_f9a_190C_exp,conv9a_190C_exp,'o','Color',cc(5,:),'LineWidth',1.5,'MarkerSize',10)
 
-% plotting a ghost graphical object in order to customize the legend for
+% plotting a ghost graphical object in order to customize the legend for figures 5 and 6
 
 figure(5)
 LEGEND1=plot(0,0,'Color',cc(1,:));
